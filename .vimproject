@@ -14,7 +14,7 @@ blog=/home/aaron/Projects/blog filter="*.py" {
    sinatra_stroy.md
   }
  }
- pages=content/pages filter="*.rst" {
-  about.rst
+ pages=content/pages filter="*.rst *.md" {
+  about.md
  }
 }
