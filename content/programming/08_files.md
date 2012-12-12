@@ -1,6 +1,8 @@
 Title: Handling Files
 Date: 2012-10-04
 
+*This article is part of the [Sinatra Story](|filename|/programming/sinatra_story.md) series.*
+
 This is not necessarily Sinatra or Ruby or HAML related, but the question of
 how to handle file upload pops up sooner or later.
 

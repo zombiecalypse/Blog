@@ -1,6 +1,8 @@
 Title: Installing Ruby and Sinatra
 Date: 2012-10-04
 
+This article is part of the [Sinatra Story](|filename|/programming/sinatra_story.md) series.
+
 Hi there, so before we can get started with the Sinatra framework, we need to
 get it to run in the first place, so here is how you get ruby and Sinatra.
 

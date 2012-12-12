@@ -1,6 +1,8 @@
 Title: User Sessions and Layouts
 Date:2012-10-04
 
+*This article is part of the [Sinatra Story](|filename|/programming/sinatra_story.md) series.*
+
 The SinatraStory project now has a single model class, that is very simple and
 allows everybody that can connect to the server to create and delete
 everything. It seemed like a good idea at the time, but now it seems like an

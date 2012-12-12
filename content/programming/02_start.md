@@ -1,6 +1,8 @@
 Title: SinatraStory
 Date: 2012-10-04
 
+*This article is part of the [Sinatra Story](|filename|/programming/sinatra_story.md) series.*
+
 Hi there! In this tutorial, I'll show you how you can build web apps in the
 ruby [Sinatra](http://www.sinatrarb.com/) framework. As web frameworks go,
 Sinatra is a very simplistic one, as opposed to for example [Rails](http://rubyonrails.org/)
