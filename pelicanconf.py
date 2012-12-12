@@ -2,21 +2,23 @@
 # -*- coding: utf-8 -*- #
 
 AUTHOR = u'Zombiecalypse'
+AUTHOR_EMAIL = 'maergil@gmail.com'
 SITENAME = u'Zombiecalypse the Blog'
-SITEURL = ''
+SITEURL = 'http://zombiecalypse.github.com/Blog'
 
-TIMEZONE = 'Europe/Paris'
+TIMEZONE = 'Europe/Zurich'
 
 DEFAULT_LANG = u'en'
 
 # Blogroll
 LINKS =  (('Pelican', 'http://docs.notmyidea.org/alexis/pelican/'),
           ('Python.org', 'http://python.org'),
-          ('Jinja2', 'http://jinja.pocoo.org'),
-          ('You can modify those links in your config file', '#'),)
+          ('Jinja2', 'http://jinja.pocoo.org'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (('twitter', 'http://twitter.com/zombiecalypse'),
+          ('github', 'http://github.com/zombiecalypse'),)
+
+PLUGINS = ['pelican.plugins.gravatar',]
 
 DEFAULT_PAGINATION = 10

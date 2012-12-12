@@ -1,10 +1,10 @@
 blog=/home/aaron/Projects/blog filter="*.py" {
- settings.py
- articles=rst filter="*.rst" {
-  pages/about.rst
-  test.rst
+ pelicanconf.py
+ publishconf.py
+ articles=content filter="*.rst" {
+  sinatra_stroy.rst
  }
- pages=rst/pages filter="*.rst" {
+ pages=content/pages filter="*.rst" {
   about.rst
  }
 }
