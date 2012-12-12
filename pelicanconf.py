@@ -6,6 +6,8 @@ AUTHOR_EMAIL = 'maergil@gmail.com'
 SITENAME = u'Zombiecalypse the Blog'
 SITEURL = 'http://zombiecalypse.github.com/Blog'
 
+RELATIVE_URLS = True
+
 TIMEZONE = 'Europe/Zurich'
 
 DEFAULT_LANG = u'en'

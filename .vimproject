@@ -1,8 +1,18 @@
 blog=/home/aaron/Projects/blog filter="*.py" {
  pelicanconf.py
  publishconf.py
- articles=content filter="*.rst" {
-  sinatra_stroy.rst
+ articles=content filter="*.md *.rst" {
+  sinatra=programming {
+   01_installation.md
+   02_start.md
+   03_model.md
+   04_rest.md
+   05_sessions.md
+   06_testing.md
+   07_modularity.md
+   08_files.md
+   sinatra_stroy.md
+  }
  }
  pages=content/pages filter="*.rst" {
   about.rst
