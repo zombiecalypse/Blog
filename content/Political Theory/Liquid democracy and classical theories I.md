@@ -3,13 +3,17 @@ Date: 2013-01-13
 
 As the modern idea of democracy rose to its contemporary positive connotation,
 many theorists held that direct democracy was the ideal, but impractical. Locke
-said **quote about how indirect democracy is necessary** and for Rousseau, only
+said 
+
+*[...] For if the consent of the majority shall not, in reason, be received as the act of the whole, and conclude every individual; nothing but the consent of every individual can make any thing to be the act of the whole: but such a consent is next to impossible ever to be had, if we consider the infirmities of health, and avocations of business, which in a number, though much less than that of a commonwealth, will necessarily keep many away from the public assembly. [...]* (Sect. 98 Second Treatise of Government)
+
+and for Rousseau, only
 a small community ensures happiness for its members, because he held it
 impossible to have immediate contact in a larger context. These constraints do
 not apply as much as they did when the theories were first developed -
 geographical distance is but a minor inconvenience in the information age. In
 reaction to the possibilities that this gives society, delegated voting
-(*Designing a Democratic System Based on Voluntary Vote-Delegation*,  James
+(*Designing a Democratic System Based on Voluntary Vote-Delegation* [pdf](http://www.econ.ucsb.edu/~armytage/proxy2012.pdf),  James
 Green-Armytage) as an alternative  to or synthesis of both representative and
 direct systems had been proposed. In this essay I will analyse how the novel
 idea fits into the framework that were the basis for the first modern
