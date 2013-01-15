@@ -1,7 +1,7 @@
 Title: Testing
-Date: 2012-10-04
+Date: 2012-10-06
 
-*This article is part of the [Sinatra Story](|filename|/programming/sinatra_story.md) series.*
+*This article is part of the [Sinatra Story](|filename|/Programming/sinatra_story.md) series.*
 
 Up to this point, I always felt kinda bad, because I always had to start up the
 server and go through all the pages in order to catch errors (there always are).

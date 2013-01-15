@@ -25,6 +25,6 @@ LINKS =  (('Pelican', 'http://docs.notmyidea.org/alexis/pelican/'),
 SOCIAL = (('twitter', 'http://twitter.com/zombiecalypse'),
           ('github', 'http://github.com/zombiecalypse'),)
 
-PLUGINS = ['pelican.plugins.gravatar',]
+PLUGINS = ['pelican.plugins.gravatar', 'pelican.plugins.latex', ]
 
 DEFAULT_PAGINATION = 10

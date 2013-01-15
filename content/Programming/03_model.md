@@ -1,7 +1,7 @@
 Title: The Story of how I built a Model
-Date: 2012-10-04
+Date: 2012-10-03
 
-*This article is part of the [Sinatra Story](|filename|/programming/sinatra_story.md) series.*
+*This article is part of the [Sinatra Story](|filename|/Programming/sinatra_story.md) series.*
 
 So in this text, I will actually build a very simple Webapp including data
 that is stored on the server. I will not use a database, so as not to

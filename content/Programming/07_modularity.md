@@ -1,7 +1,7 @@
 Title: Modularity
-Date: 2012-10-04
+Date: 2012-10-07
 
-*This article is part of the [Sinatra Story](|filename|/programming/sinatra_story.md) series.*
+*This article is part of the [Sinatra Story](|filename|/Programming/sinatra_story.md) series.*
 
 Look at [the code of the last iteration](https://github.com/zombiecalypse/SinatraStory/tree/master/iteration05).
 

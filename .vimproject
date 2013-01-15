@@ -2,7 +2,7 @@ blog=/home/aaron/Projects/blog filter="*.py" {
  pelicanconf.py
  publishconf.py
  articles=content filter="*.md *.rst" {
-  sinatra=programming {
+  programming=programming {
    01_installation.md
    02_start.md
    03_model.md
@@ -11,7 +11,7 @@ blog=/home/aaron/Projects/blog filter="*.py" {
    06_testing.md
    07_modularity.md
    08_files.md
-   sinatra_stroy.md
+   sinatra_story.md
   }
  }
  pages=content/pages filter="*.rst *.md" {

@@ -1,7 +1,7 @@
 Title: Putting, Modifying and the REST
 Date: 2012-10-04
 
-*This article is part of the [Sinatra Story](|filename|/programming/sinatra_story.md) series.*
+*This article is part of the [Sinatra Story](|filename|/Programming/sinatra_story.md) series.*
 
 Until now, the texts had to be hard coded into the fixture. That of course is
 just ridiculous for a webapp. The whole point of an application like this is

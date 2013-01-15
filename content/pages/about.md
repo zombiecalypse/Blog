@@ -6,7 +6,7 @@ Hi, my name is Aaron Karper and I'm currently studying Computer Science at the
 [University of Bern](http://www.iam.unibe.ch/en). You might know me from
 lectures like *Programming 2* and *Introduction to Software Engineering* for which I'm TA.
 
-<img src="/static/images/profile_pic.jpg" align="right" height=300 alt="Zombiecalypse" />
+<img src="|filename|/images/profile_pic.jpg" align="right" height=300 alt="Zombiecalypse" />
 
 Currently I'm working on my [Bachelor thesis](https://github.com/zombiecalypse/Bachelor-Thesis)
 on computability theory. Besides that, I believe that you should never stop

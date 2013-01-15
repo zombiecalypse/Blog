@@ -1,7 +1,7 @@
 Title: SinatraStory
-Date: 2012-10-04
+Date: 2012-10-02
 
-*This article is part of the [Sinatra Story](|filename|/programming/sinatra_story.md) series.*
+*This article is part of the [Sinatra Story](|filename|/Programming/sinatra_story.md) series.*
 
 Hi there! In this tutorial, I'll show you how you can build web apps in the
 ruby [Sinatra](http://www.sinatrarb.com/) framework. As web frameworks go,
@@ -148,5 +148,5 @@ Now, when you run it and go to the [localhost:4567](http://localhost:4567), you 
 form, and if you enter "Tim" into the form field, the greeting will be "Hello
 Tim" instead of "Hello World".
 
-That is enough for the first iteration, the [next time](|filename|/programming/03_model.md), I'll show you, how you
+That is enough for the first iteration, the [next time](|filename|/Programming/03_model.md), I'll show you, how you
 can use a model too. Hint: It is just plain ruby.

@@ -8,11 +8,33 @@ from pelicanconf import *
 SITEURL = 'http://zombiecalypse.github.com/Blog'
 
 DELETE_OUTPUT_DIRECTORY = True
+#!/usr/bin/env python
+# -*- coding: utf-8 -*- #
 
-# Following items are often useful when publishing
+AUTHOR = u'Zombiecalypse'
+AUTHOR_EMAIL = 'maergil@gmail.com'
+SITENAME = u'Zombiecalypse the Blog'
+SITEURL = 'http://zombiecalypse.github.com/Blog'
+STATIC_PATHS = [ 'images' ]
+ARTICLE_URL = '{date:%Y}/{date:%b}/{slug}.html'
+ARTICLE_SAVE_AS = '{date:%Y}/{date:%b}/{slug}.html'
 
-# Uncomment following line for absolute URLs in production:
-#RELATIVE_URLS = False
+TYPOGRIFY = True
 
-#DISQUS_SITENAME = ""
-#GOOGLE_ANALYTICS = ""
+RELATIVE_URLS = True
+
+TIMEZONE = 'Europe/Zurich'
+
+DEFAULT_LANG = u'en'
+
+# Blogroll
+LINKS =  (('Pelican', 'http://docs.notmyidea.org/alexis/pelican/'),
+          ('Python.org', 'http://python.org'),)
+
+# Social widget
+SOCIAL = (('twitter', 'http://twitter.com/zombiecalypse'),
+          ('github', 'http://github.com/zombiecalypse'),)
+
+PLUGINS = ['pelican.plugins.gravatar', 'pelican.plugins.latex', ]
+
+DEFAULT_PAGINATION = 10
